@@ -32,7 +32,9 @@ The program gives hints if the guessed number is too high or too low until the c
 - Each wrong guess reduces attempts
 - Game ends when:
   - You guess correctly 
-  - Attempts reach zero 
+  - Attempts reach zero
+  - <img width="733" height="231" alt="Screenshot 2026-05-31 231808" src="https://github.com/user-attachments/assets/228ef0a1-7926-4c23-a319-121aabe2909d" />
+
 ---
 
 
