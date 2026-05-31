@@ -36,5 +36,3 @@ The program gives hints if the guessed number is too high or too low until the c
 ---
 
 
-## 📌 Note
-This project is part of DecodeLabs Internship training.
