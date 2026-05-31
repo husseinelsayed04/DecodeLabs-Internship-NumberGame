@@ -14,6 +14,7 @@ The program gives hints if the guessed number is too high or too low until the c
 - Score tracking
 - Option to play multiple rounds
 - Input validation (handles invalid inputs)
+<img width="711" height="492" alt="Screenshot 2026-05-31 231915" src="https://github.com/user-attachments/assets/6ba17c09-ef11-40ab-9b24-0b1daefce844" />
 
 ---
 
@@ -33,7 +34,7 @@ The program gives hints if the guessed number is too high or too low until the c
 - Game ends when:
   - You guess correctly 
   - Attempts reach zero
-  - <img width="733" height="231" alt="Screenshot 2026-05-31 231808" src="https://github.com/user-attachments/assets/228ef0a1-7926-4c23-a319-121aabe2909d" />
+<img width="617" height="174" alt="Screenshot 2026-05-31 232018" src="https://github.com/user-attachments/assets/45ebb42f-f2eb-49b6-9884-f5d2e922ccc7" />
 
 ---
 
